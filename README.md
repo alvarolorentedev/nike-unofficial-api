@@ -1,4 +1,4 @@
-# nike-unofficial-api
+# ![logomakr_3e4ole](https://cloud.githubusercontent.com/assets/3071208/22865444/590b48ae-f12a-11e6-921c-f7a9c4b5dd48.png)
 unofficial nike api
 
 This is a promise based unofficial nikeplus api.
@@ -59,7 +59,9 @@ workouts({access_token: token})
     .catch((result) => console.log(result))
 
 ```
+### Logo
 
+Speed graphic by <a href="http://www.flaticon.com/authors/freepik">Freepik</a> from <a href="http://www.flaticon.com/">Flaticon</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Made with <a href="http://logomakr.com" title="Logo Maker">Logo Maker</a>
 
 ## Disclaimer, legalese and everything else.
 
