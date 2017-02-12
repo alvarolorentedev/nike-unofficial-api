@@ -38,12 +38,10 @@ The result of the promise will be if failed the error that caused it and if succ
 
 ```
 { 
-  authToken: <token>,
-  measure: <mesure unit>,
-  displayName: <user name>,
-  userId: <user id>,
-  facebookConnected: <true|false>,
-  secureToken: <token> 
+  	access_token: <token>,
+  	expires_in: <expiration time>,
+  	profile_img_url: <profile image>,
+  	token_type: <token type>
 }
 ```
 
