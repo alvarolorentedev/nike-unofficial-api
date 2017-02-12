@@ -1,0 +1,31 @@
+{
+  "name": "nike-unofficial-api",
+  "version": "0.0.1",
+  "description": "nike unofficial api access",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "example": "node ./example/example.js"
+  },
+  "keywords": [
+    "nike",
+    "nikeplus",
+    "sports",
+    "unofficial",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanekotic/nike-unofficial-api.git"
+  },
+  "author": "kanekotic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanekotic/nike-unofficial-api/issues"
+  },
+  "homepage": "https://github.com/kanekotic/nike-unofficial-api#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "moment": "^2.17.1"
+  }
+}
