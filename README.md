@@ -1,4 +1,7 @@
 # ![logomakr_3e4ole](https://cloud.githubusercontent.com/assets/3071208/22865444/590b48ae-f12a-11e6-921c-f7a9c4b5dd48.png)
+
+## Disclaimer: I did this unoficial api 5 years ago the API might or might not still published
+
 unofficial nike api
 
 This is a promise based unofficial nikeplus api.
